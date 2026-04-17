@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Ikawa
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO\&color=blue\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermeikawa-lgtm\&color=blue\&style=flat)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Back-End+em+formação;Estudante+de+ADS+no+IFSP;Aprendendo+C+e+JavaScript;" />
