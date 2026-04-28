@@ -35,7 +35,7 @@ Atualmente, estou direcionando meu foco para **JavaScript**, com o objetivo de a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeikawa-lgtm&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeikawa-lgtm&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeikawa-lgtm&layout=compact&theme=dark&include_all_commits=true&cache_seconds=1800)
 
 ---
 
