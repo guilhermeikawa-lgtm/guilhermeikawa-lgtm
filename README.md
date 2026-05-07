@@ -29,6 +29,7 @@ Atualmente, estou direcionando meu foco para **JavaScript**, com o objetivo de a
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,8 +38,7 @@ Atualmente, estou direcionando meu foco para **JavaScript**, com o objetivo de a
 ---
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeikawa-lgtm&show_icons=true&theme=dark&count_private=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guilhermelgtm=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeikawa-lgtm&layout=compact&theme=dark&include_all_commits=true&cache_seconds=1800)
 
 ---
