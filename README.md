@@ -38,8 +38,8 @@ Atualmente, estou direcionando meu foco para **JavaScript**, com o objetivo de a
 ---
 ## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guilhermelgtm=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeikawa-lgtm&layout=compact&theme=dark&include_all_commits=true&cache_seconds=1800)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
